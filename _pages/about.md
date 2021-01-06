@@ -19,7 +19,7 @@ I am a current PhD student at The Bartlett School of Construction & Project Mana
 
 ## Research Project
 
-* Peking University Lincoln Urban Development and Land Policy Research Center Research Fund: The linkage mechanism between the voluntary and paid withdrawal of rural homestead and urban housing security. (Member)
+* Peking University Lincoln Urban Development and Land Policy Research Center Research Fund: The linkage mechanism between the voluntary and paid withdrawal of rural homestead and urban housing security (Member)
 
 ## Honours and Awards
 
