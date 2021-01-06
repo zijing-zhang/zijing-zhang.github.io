@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Zijing Zhang"
+title                    : "Zijing Zhang@UCL"
 name                     : &name "Zijing Zhang"
 description              : &description "PhD student at The Bartlett, University College London"
 url                      : https://zijing-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
