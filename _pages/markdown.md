@@ -7,6 +7,6 @@ redirect_from:
   - /markdown.html
 ---
 
-The Bartlett School of Construction & Project Management, 1-19 Torrington Place, University College London, London, WC1E 7HB
+The Bartlett School of Construction & Project Management, University College London, 1-19 Torrington Place, London, WC1E 7HB
 
 
