@@ -1,6 +1,11 @@
 
-
-## About Myself
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I am a current PhD student at The Bartlett School of Construction & Project Management at University College London, under the supervision of [Dr. Ling Ma](https://www.ucl.ac.uk/bartlett/construction/people/dr-ling-ma) and [Prof. Tim Broyd](https://www.ucl.ac.uk/bartlett/digital/prof-tim-broyd). I received my Bachelor's Degree from Huazhong Agricultural University in China, and my MSc with Distinction from University College London.
 
