@@ -1,38 +1,21 @@
----
-permalink: /markdown/
-title: "Markdown"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
----
 
-## Locations of key files/directories
+## About Myself
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+I am a current PhD student at The Bartlett School of Construction & Project Management at University College London, under the supervision of [Dr. Ling Ma](https://www.ucl.ac.uk/bartlett/construction/people/dr-ling-ma) and [Prof. Tim Broyd](https://www.ucl.ac.uk/bartlett/digital/prof-tim-broyd).I received my Bachelor's Degree from Huazhong Agricultural University in China, and my MSc with Distinction from University College London.
 
-## Tips and hints
+## Research Interests
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+* Intelligent Construction
+* Digital Construction
+* Offsite construction
+* Project Management
+ 
+## Honours and Awards
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+* China Scholarship Council Master Full Scholarship
+  China Scholarship Council, 2018
+* National Scholarship
+  Ministery of Education, China, 2017
 
 ## Markdown guide
 
