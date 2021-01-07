@@ -15,7 +15,7 @@ I am a current PhD student at The Bartlett School of Construction & Project Mana
 
 ## Appointment
 
-* **Part-time Research Assistant**, Department of Real Estate Economics and Engineering Management, Huazhong Agricultural University, 2016-2017
+* **Research Assistant**, Department of Real Estate Economics and Engineering Management, Huazhong Agricultural University, 2016-2017
 
 ## Research Project
 
