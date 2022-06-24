@@ -29,8 +29,8 @@ I am a current PhD candidate at The Bartlett School of Sustainable Construction 
 
 ## Publications
 
-* Zhang, Z., Ma, L. & Broyd, T. 2022. Towards Fully-automated Code Compliance Checking of Building Regulations: Challenges for Rule Interpretation and Representation. *2022 European Conference on Computing in Construction. Ixia, Rhodes, Greece. (In Press)
-* Zhang, Z., Nisbet, N., Ma, L. & Broyd, T. 2022. A multi-representation method of building rules for automatic code compliance checking. *European Conference on Product and Process Modelling 2022. Trondheim, Norway. (Accepted)
+* Zhang, Z., Ma, L. & Broyd, T. 2022. Towards Fully-automated Code Compliance Checking of Building Regulations: Challenges for Rule Interpretation and Representation. *2022 European Conference on Computing in Construction. Ixia, Rhodes, Greece. (In Press)*
+* Zhang, Z., Nisbet, N., Ma, L. & Broyd, T. 2022. A multi-representation method of building rules for automatic code compliance checking. *European Conference on Product and Process Modelling 2022. Trondheim, Norway. (Accepted)*
 * Zhang, Z. 2022. *Housing Creative Practitioners and Young People in East London*, Creative Wick.
 
 ## Honours and Awards
